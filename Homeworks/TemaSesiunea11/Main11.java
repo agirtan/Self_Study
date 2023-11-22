@@ -1,10 +1,9 @@
-package TemaSesiunea11;
+package Homeworks.TemaSesiunea11;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.ListIterator;
-import java.util.concurrent.CopyOnWriteArrayList;
 
 
 public class Main11 {

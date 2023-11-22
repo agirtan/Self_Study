@@ -1,6 +1,4 @@
-package TemaSesiunea13;
-
-import javax.swing.*;
+package Homeworks.TemaSesiunea13;
 
 public class Main13 {
 
