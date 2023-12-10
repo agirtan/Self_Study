@@ -11,7 +11,6 @@ public class SpringProject1Application {
 
 		SpringApplication.run(SpringProject1Application.class, args);
 	}
-	sout
 
 	}
 
